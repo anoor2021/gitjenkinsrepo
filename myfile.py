@@ -1,2 +1,2 @@
-Print ("Hello World")
-Print("New Line1")
+print ("Hello World")
+
